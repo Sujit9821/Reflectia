@@ -1,3 +1,8 @@
+
+![Screenshot 2023-07-28 010110](https://github.com/Roy9821/Reflectia/assets/110605476/22901c63-d117-40d9-af5a-d4572e8ce7e9)
+
+![Reflectia1](https://github.com/Roy9821/Reflectia/assets/110605476/70fd7635-909a-43b7-b08b-bf768ca2a948)
+
 # Reflectia
 
 Reflectia is a user-friendly social media application built using React, Node.js, Express, and MongoDB. The primary objective of Reflectia is to provide a platform where users can capture and share their cherished memories in the form of photos and videos. The application fosters interaction between users by allowing them to like and engage with each other's posts. Additionally, Reflectia provides easy content management features to empower users with control over their shared content.
