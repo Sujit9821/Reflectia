@@ -1,0 +1,30 @@
+body {
+    /* Background color and image */
+    background-color: rgba(0, 183, 255, 1) !important;
+    background-image: url('C:/Users/Lenovo/OneDrive/Desktop/Rproject/memories/client/src/images/bg.jpg');
+    background-size: cover;
+  
+    /* Font and text properties */
+    font-family: 'Arial', sans-serif;
+    color: #fff; /* Text color */
+    line-height: 1.6; /* Line height for paragraphs */
+  }
+  
+  /* Additional styles for specific elements */
+  h1 {
+    font-size: 2.5rem; /* Font size for h1 headings */
+    font-weight: bold; /* Bold font weight for h1 headings */
+  }
+  
+  h2 {
+    font-size: 2rem; /* Font size for h2 headings */
+    font-weight: bold; /* Bold font weight for h2 headings */
+  }
+  
+  p {
+    margin: 10px 0; /* Margin for paragraphs */
+  }
+  
+  /* Add any other styles you want for specific elements here */
+  
+
